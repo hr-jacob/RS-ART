@@ -35,13 +35,11 @@ body {
   z-index: 100;
 }
 
-/* IMAGEN / FIRMA */
-.navbar img {
-  height: 100%;          /* Usa toda la altura disponible del navbar */
-  max-height: 50px;      /* Evita que sea demasiado grande */
-  width: auto;           /* Mantiene proporción */
-  object-fit: contain;   /* Ajuste limpio */
-  display: block;
+.logo {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 2px;
 }
 
 .navbar ul {
