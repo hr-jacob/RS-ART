@@ -113,8 +113,7 @@ body {
 }
 
 .about h2,
-.gallery h2,
-.footer h2 {
+.gallery h2 {
   font-size: 2.5rem;
   color: var(--gold);
   margin-bottom: 2rem;
