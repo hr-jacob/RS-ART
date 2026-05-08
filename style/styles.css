@@ -153,26 +153,27 @@ body {
 }
 
 /* FOOTER */
-/* FOOTER */
 .footer {
-  padding: 0.5rem 3%;
+  padding: 1rem 3%;
   text-align: center;
   border-top: 1px solid rgba(212, 175, 55, 0.2);
 }
 
 .footer h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: var(--gold);
+  margin-bottom: 0.5rem;
 }
 
 .footer p {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
 }
 
 .socials {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  margin-top: 0.5rem;
 }
 
 .socials a {
