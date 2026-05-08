@@ -89,7 +89,7 @@ body {
 }
 
 .hero-artwork img {
-  width: 100%;
+  width: 80%;
   border: 2px solid var(--blue);
   box-shadow: 0 0 30px rgba(30, 58, 138, 0.35);
   transition: transform 0.4s ease;
