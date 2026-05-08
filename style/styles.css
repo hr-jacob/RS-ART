@@ -37,7 +37,7 @@ body {
 
 .logo {
   font-size: 1.2rem;
-  font-weight: 700;
+  font-weight: 80;
   color: var(--gold);
   letter-spacing: 2px;
 }
