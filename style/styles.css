@@ -38,7 +38,7 @@ body {
 /* IMAGEN / FIRMA */
 .navbar img {
   height: 100%;          /* Usa toda la altura disponible del navbar */
-  max-height: 90px;      /* Evita que sea demasiado grande */
+  max-height: 50px;      /* Evita que sea demasiado grande */
   width: auto;           /* Mantiene proporción */
   object-fit: contain;   /* Ajuste limpio */
   display: block;
