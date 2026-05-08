@@ -41,7 +41,7 @@ body {
 }
 
 .logo img {
-  height: 100px; /* ajusta el tamaño */
+  height: 60px; /* ajusta el tamaño */
   width: auto;
   max-width: 100%;
   object-fit: contain;
