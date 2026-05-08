@@ -36,10 +36,16 @@ body {
 }
 
 .logo {
-  font-size: 1.2rem;
-  font-weight: 80;
-  color: var(--gold);
-  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 60px; /* ajusta el tamaño */
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 .navbar ul {
