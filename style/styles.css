@@ -27,7 +27,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 5%;
+  padding: 1rem 5%;
   position: sticky;
   top: 0;
   background: rgba(10, 15, 31, 0.85);
@@ -153,8 +153,7 @@ body {
 
 /* FOOTER */
 .footer {
-  width: 80%;
-  margin: 0 auto;
+  padding: 4rem 5%;
   text-align: center;
   border-top: 1px solid rgba(212, 175, 55, 0.2);
 }
